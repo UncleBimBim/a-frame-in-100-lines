@@ -48,7 +48,7 @@ import { NEXT_PUBLIC_URL } from './config';
 const frameMetadata = getFrameMetadata({
   buttons: [
     {
-      label: 'Story time!',
+      label: 'Butterscotch',
     },
     {
       action: 'link',
@@ -86,7 +86,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <h1>zizzamia.xyz</h1>
+      <h1>UncleBimBim</h1>
     </>
   );
 }
